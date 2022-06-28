@@ -1,2 +1,2 @@
 # penetrater.github.io
-Personal blog
+personalBlog
